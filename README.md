@@ -1,6 +1,6 @@
 # Linear-Regression
 
-## Hey there! 👋 I'm Shahab Khan, and I am deeply fascinated by the world of data. As I aspire to become a data scientist, I am constantly immersing myself in this field. My ultimate goal is to be able to take complicated ideas and turn them into accessible and meaningful insights. Currently, I am delving into linear regression and its potential to accurately forecast real-life outcomes.
+### Hey there! 👋 I'm Shahab Khan, and I am deeply fascinated by the world of data. As I aspire to become a data scientist, I am constantly immersing myself in this field. My ultimate goal is to be able to take complicated ideas and turn them into accessible and meaningful insights. Currently, I am delving into linear regression and its potential to accurately forecast real-life outcomes.
 
 ### Linear Regression Explained
 Linear regression is a powerful statistical method that helps us understand the relationship between a dependent variable and one or more independent variables. In simpler terms, it helps us draw a straight line that best fits the data points, allowing us to make predictions based on this line. The goal is to find the equation of the line that minimizes the difference between predicted values and actual values.
