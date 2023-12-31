@@ -12,7 +12,7 @@ Coefficients: The values that define the slope and intercept of the regression l
 
 ## Diving into the Datasets
 ### Dataset 1: Boston Housing Data
-This dataset is a treasure trove for predicting housing prices in Boston. It includes various features like crime rate, residential land proportion, nitric oxide concentration, and more. The challenge is to build a linear regression model that leverages these features to predict the median value of owner-occupied homes (MEDV) in $1000s.
+This dataset is a goldmine for forecasting housing prices in Boston. Packed with valuable information such as crime rate, residential land proportion, nitric oxide concentration, and more, it presents an exciting opportunity. The task at hand is to construct a linear regression model that effectively utilizes these features to accurately predict the median value of owner-occupied homes (MEDV) in $1000s.
 
 ### Dataset 2: Medical Charges Prediction
 In the second dataset, we shift our focus to predicting medical charges. The features include age, gender, BMI, number of children, smoking status, and geographical region. Through linear regression, we aim to understand the relationships between these variables and the individual medical costs billed by health insurance.
